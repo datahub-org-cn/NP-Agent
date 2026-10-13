@@ -1,0 +1,4 @@
+openpyxl
+matplotlib
+matplotlib-venn
+networkx
